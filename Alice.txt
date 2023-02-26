@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Adding more text to the second line.
 Adding a third line to test remote pushing with a new remote named change_alice on the remote repo.
+Adding a fourth line to test merging of divergent branches.
